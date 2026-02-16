@@ -1,0 +1,101 @@
+[
+  {
+    "company_type": "Commercial",
+    "service": "Data & Analytics",
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "n": 42
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Marketing",
+    "inbound_asks": [
+      "HubSpot"
+    ],
+    "n": 20
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "n": 6
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Infrastructure",
+    "inbound_asks": [
+      "Ongoing Support"
+    ],
+    "n": 4
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Data & Analytics",
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "n": 4
+  },
+  {
+    "company_type": "Commercial",
+    "service": "CRM",
+    "inbound_asks": [
+      "Dynamics/CRM"
+    ],
+    "n": 3
+  },
+  {
+    "company_type": "Government",
+    "service": "Data & Analytics",
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "n": 3
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Data & Analytics",
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "n": 2
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Marketing",
+    "inbound_asks": [
+      "HubSpot"
+    ],
+    "n": 1
+  },
+  {
+    "company_type": "Construction",
+    "service": "Data & Analytics",
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "n": 1
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Data & Analytics",
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "n": 1
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Marketing",
+    "inbound_asks": [
+      "HubSpot"
+    ],
+    "n": 1
+  }
+]

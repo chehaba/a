@@ -1,0 +1,471 @@
+[
+  {
+    "company_type": "Financial Services",
+    "service": "Marketing Services",
+    "n": 3,
+    "won": 3,
+    "win_rate": 1.0
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Custom Dev",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0
+  },
+  {
+    "company_type": "Retail",
+    "service": "Infrastructure",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Modern Workplace",
+    "n": 6,
+    "won": 5,
+    "win_rate": 0.8333
+  },
+  {
+    "company_type": "Government",
+    "service": "Custom Dev",
+    "n": 5,
+    "won": 4,
+    "win_rate": 0.8
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Infrastructure",
+    "n": 12,
+    "won": 8,
+    "win_rate": 0.6667
+  },
+  {
+    "company_type": "Construction",
+    "service": "Marketing Services",
+    "n": 3,
+    "won": 2,
+    "win_rate": 0.6667
+  },
+  {
+    "company_type": "Hospitality",
+    "service": "Custom Dev",
+    "n": 3,
+    "won": 2,
+    "win_rate": 0.6667
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Creative",
+    "n": 3,
+    "won": 2,
+    "win_rate": 0.6667
+  },
+  {
+    "company_type": "Media, Internet",
+    "service": "Modern Workplace",
+    "n": 5,
+    "won": 3,
+    "win_rate": 0.6
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "n": 27,
+    "won": 15,
+    "win_rate": 0.5556
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "n": 22,
+    "won": 11,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Education",
+    "service": "Marketing Services",
+    "n": 8,
+    "won": 4,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Marketing Services",
+    "n": 6,
+    "won": 3,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "CRM",
+    "n": 4,
+    "won": 2,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Education",
+    "service": "Infrastructure",
+    "n": 4,
+    "won": 2,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Infrastructure",
+    "n": 4,
+    "won": 2,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Commercial",
+    "service": "BPO",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Construction",
+    "service": "Data & Analytics",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Energy / Utilities",
+    "service": "Infrastructure",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Energy / Utilities",
+    "service": "Data & Analytics",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Custom Dev",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "CRM",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Management Consulting Firm",
+    "service": "Marketing Services",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Infrastructure",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Technology Consulting Firm",
+    "service": "Modern Workplace",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Transportation",
+    "service": "Infrastructure",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Modern Workplace",
+    "n": 21,
+    "won": 10,
+    "win_rate": 0.4762
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Modern Workplace",
+    "n": 15,
+    "won": 7,
+    "win_rate": 0.4667
+  },
+  {
+    "company_type": "Cities, Towns, Municipalities",
+    "service": "Modern Workplace",
+    "n": 7,
+    "won": 3,
+    "win_rate": 0.4286
+  },
+  {
+    "company_type": "Energy / Utilities",
+    "service": "Modern Workplace",
+    "n": 12,
+    "won": 5,
+    "win_rate": 0.4167
+  },
+  {
+    "company_type": "Agriculture",
+    "service": "Data & Analytics",
+    "n": 5,
+    "won": 2,
+    "win_rate": 0.4
+  },
+  {
+    "company_type": "Technology",
+    "service": "CRM",
+    "n": 5,
+    "won": 2,
+    "win_rate": 0.4
+  },
+  {
+    "company_type": "Commercial",
+    "service": "CRM",
+    "n": 8,
+    "won": 3,
+    "win_rate": 0.375
+  },
+  {
+    "company_type": "Education",
+    "service": "Modern Workplace",
+    "n": 11,
+    "won": 4,
+    "win_rate": 0.3636
+  },
+  {
+    "company_type": "Construction",
+    "service": "Modern Workplace",
+    "n": 12,
+    "won": 4,
+    "win_rate": 0.3333
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Infrastructure",
+    "n": 6,
+    "won": 2,
+    "win_rate": 0.3333
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Marketing Services",
+    "n": 6,
+    "won": 2,
+    "win_rate": 0.3333
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "CRM",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333
+  },
+  {
+    "company_type": "Construction",
+    "service": "Custom Dev",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Data & Analytics",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Marketing Services",
+    "n": 16,
+    "won": 5,
+    "win_rate": 0.3125
+  },
+  {
+    "company_type": "Technology",
+    "service": "Creative",
+    "n": 26,
+    "won": 8,
+    "win_rate": 0.3077
+  },
+  {
+    "company_type": "Technology",
+    "service": "Marketing Services",
+    "n": 29,
+    "won": 8,
+    "win_rate": 0.2759
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Custom Dev",
+    "n": 16,
+    "won": 4,
+    "win_rate": 0.25
+  },
+  {
+    "company_type": "Technology",
+    "service": "Modern Workplace",
+    "n": 12,
+    "won": 3,
+    "win_rate": 0.25
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Data & Analytics",
+    "n": 8,
+    "won": 2,
+    "win_rate": 0.25
+  },
+  {
+    "company_type": "Government",
+    "service": "Modern Workplace",
+    "n": 4,
+    "won": 1,
+    "win_rate": 0.25
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "n": 48,
+    "won": 10,
+    "win_rate": 0.2083
+  },
+  {
+    "company_type": "Education",
+    "service": "Custom Dev",
+    "n": 5,
+    "won": 1,
+    "win_rate": 0.2
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Data & Analytics",
+    "n": 12,
+    "won": 2,
+    "win_rate": 0.1667
+  },
+  {
+    "company_type": "Real Estate",
+    "service": "Modern Workplace",
+    "n": 6,
+    "won": 1,
+    "win_rate": 0.1667
+  },
+  {
+    "company_type": "Technology",
+    "service": "BPO",
+    "n": 9,
+    "won": 1,
+    "win_rate": 0.1111
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Custom Dev",
+    "n": 9,
+    "won": 1,
+    "win_rate": 0.1111
+  },
+  {
+    "company_type": "Technology",
+    "service": "Data & Analytics",
+    "n": 17,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Custom Dev",
+    "n": 5,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Law Firms, Legal Services",
+    "service": "Modern Workplace",
+    "n": 5,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Data & Analytics",
+    "n": 4,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Technology",
+    "service": "Infrastructure",
+    "n": 4,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Infrastructure",
+    "n": 3,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Transportation",
+    "service": "Data & Analytics",
+    "n": 3,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Management Consulting Firm",
+    "service": "Custom Dev",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Media, Internet",
+    "service": "Custom Dev",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Media, Internet",
+    "service": "Infrastructure",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Retail",
+    "service": "CRM",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Transportation",
+    "service": "Modern Workplace",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0
+  },
+  {
+    "company_type": "Transportation",
+    "service": "Custom Dev",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0
+  }
+]

@@ -1,0 +1,1824 @@
+[
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "Finance / Director",
+    "n": 6,
+    "won": 6,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Infrastructure",
+    "buyer_title": "IT/Tech / IC",
+    "n": 3,
+    "won": 3,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Manager",
+    "n": 3,
+    "won": 3,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Modern Workplace",
+    "buyer_title": "Executive / VP",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Energy / Utilities",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Agriculture",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Education",
+    "service": "Infrastructure",
+    "buyer_title": "Marketing / Director",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Government",
+    "service": "Custom Dev",
+    "buyer_title": "IT/Tech / Director",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "Product/Program / Manager",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Hospitality",
+    "service": "Custom Dev",
+    "buyer_title": "Executive / IC",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "Executive / IC",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / C-Suite",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Custom Dev",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / C-Suite",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Government",
+    "service": "Custom Dev",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 2,
+    "win_rate": 1.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Education",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 5,
+    "won": 4,
+    "win_rate": 0.8,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Non-Profit",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Manager",
+    "n": 4,
+    "won": 3,
+    "win_rate": 0.75,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Creative",
+    "buyer_title": "Marketing / Director",
+    "n": 3,
+    "won": 2,
+    "win_rate": 0.6667,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "buyer_title": "Other / C-Suite",
+    "n": 3,
+    "won": 2,
+    "win_rate": 0.6667,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "CRM",
+    "buyer_title": "Other / C-Suite",
+    "n": 3,
+    "won": 2,
+    "win_rate": 0.6667,
+    "inbound_asks": [
+      "Dynamics/CRM"
+    ],
+    "inbound_snippets": [
+      "I Would Like To Speak To Someone Who Can Help Me Understand If Affirma Offers Dynamics Crm Support:U",
+      "Hello, I Am Reaching Out Because I'D Like To See If You Have Experience With Marketo As Well As Dyna",
+      "Several Businesses Within My Portfolio Use Microsoft Dynamics Crm But Are Not Using It Well And Need"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "managed service",
+      "redesign/upgrade"
+    ],
+    "service_notes": [
+      "Salesforce",
+      "Dynamics",
+      "pipeline",
+      "sales enablement"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 4,
+    "won": 2,
+    "win_rate": 0.5,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Creative",
+    "buyer_title": "Other / Manager",
+    "n": 4,
+    "won": 2,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "buyer_title": "IT/Tech / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Modern Workplace",
+    "buyer_title": "Executive / VP",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Infrastructure",
+    "buyer_title": "IT/Tech / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Infrastructure",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / Director",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "buyer_title": "Marketing / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / Director",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Infrastructure",
+    "buyer_title": "IT/Tech / C-Suite",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Cities, Towns, Municipalities",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Construction",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Education",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / Director",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Education",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / VP",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / Director",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Infrastructure",
+    "buyer_title": "IT/Tech / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / C-Suite",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "CRM",
+    "buyer_title": "Operations / VP",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "managed service",
+      "redesign/upgrade"
+    ],
+    "service_notes": [
+      "Salesforce",
+      "Dynamics",
+      "pipeline",
+      "sales enablement"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Infrastructure",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / VP",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Custom Dev",
+    "buyer_title": "Finance / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Cities, Towns, Municipalities",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Energy / Utilities",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / VP",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Real Estate",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "CRM",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 1,
+    "win_rate": 0.5,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "managed service",
+      "redesign/upgrade"
+    ],
+    "service_notes": [
+      "Salesforce",
+      "Dynamics",
+      "pipeline",
+      "sales enablement"
+    ]
+  },
+  {
+    "company_type": "Construction",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Director",
+    "n": 5,
+    "won": 2,
+    "win_rate": 0.4,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Marketing Services",
+    "buyer_title": "Other / Manager",
+    "n": 5,
+    "won": 2,
+    "win_rate": 0.4,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / Manager",
+    "n": 5,
+    "won": 2,
+    "win_rate": 0.4,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Creative",
+    "buyer_title": "Marketing / Manager",
+    "n": 6,
+    "won": 2,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "CRM",
+    "buyer_title": "Executive / IC",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "managed service",
+      "redesign/upgrade"
+    ],
+    "service_notes": [
+      "Salesforce",
+      "Dynamics",
+      "pipeline",
+      "sales enablement"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / IC",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / IC",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / Manager",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Marketing Services",
+    "buyer_title": "Other / IC",
+    "n": 3,
+    "won": 1,
+    "win_rate": 0.3333,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Director",
+    "n": 4,
+    "won": 1,
+    "win_rate": 0.25,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Marketing Services",
+    "buyer_title": "Marketing / Manager",
+    "n": 10,
+    "won": 2,
+    "win_rate": 0.2,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Creative",
+    "buyer_title": "Product/Program / Manager",
+    "n": 6,
+    "won": 1,
+    "win_rate": 0.1667,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "buyer_title": "Other / Manager",
+    "n": 20,
+    "won": 3,
+    "win_rate": 0.15,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Marketing Services",
+    "buyer_title": "Product/Program / Manager",
+    "n": 7,
+    "won": 1,
+    "win_rate": 0.1429,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Custom Dev",
+    "buyer_title": "Product/Program / Manager",
+    "n": 15,
+    "won": 1,
+    "win_rate": 0.0667,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / Manager",
+    "n": 6,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "BPO",
+    "buyer_title": "Product/Program / Manager",
+    "n": 5,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / Director",
+    "n": 5,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / IC",
+    "n": 5,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Custom Dev",
+    "buyer_title": "Other / C-Suite",
+    "n": 4,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Education",
+    "service": "Modern Workplace",
+    "buyer_title": "Executive / IC",
+    "n": 3,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Manager",
+    "n": 3,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Construction",
+    "service": "Modern Workplace",
+    "buyer_title": "IT/Tech / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Modern Workplace",
+    "buyer_title": "Executive / IC",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Healthcare",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / C-Suite",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "inbound_snippets": [
+      "I\u2019D Like To Schedule A Demo To Explore How Your Team Can Support A One-Time Power Bi Integration Wit",
+      "Good Morning, Looking For A Consultant And Team To Guide Us On Deploying Power Bi For Our Organizati",
+      "We Are Currently Looking For Someone To Do A Complete Build Of Our Workflow(S) And Processes Within "
+    ],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Modern Workplace",
+    "buyer_title": "Operations / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "SharePoint General",
+      "SharePoint Migration",
+      "Power Automate/Flows",
+      "Power Apps"
+    ],
+    "inbound_snippets": [
+      "Needing A Consult To Create Power Automate Flows, Workflows In Teams, Intergrate Flows Into Sharepoi",
+      "Hello, We'Re Looking For Some Consultation For Our Upcoming Sharepoint Migration. This Would Include",
+      "Sharepoint, Power Apps, Power Automate Design, Development And Support:Url Referrer: Https://Info.Af"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Education",
+    "service": "Modern Workplace",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "integration"
+    ],
+    "service_notes": [
+      "SharePoint migration",
+      "intranet build",
+      "M365 governance",
+      "tenant consolidation"
+    ]
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "inbound_snippets": [
+      "We Are Currently Using Power Bi For Our Reporting Needs, And We Are Fully Satisfied With It. Our Cha",
+      "We Are Looking To Migrate Our Financial Reports Into Powerbi As Well As Create Dashboards For The Ex",
+      "Hello,\n Would Like To Discuss Options For Replacing Our Internal Power Bi Developer. He Is Leaving S"
+    ],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Management Consulting Firm",
+    "service": "Custom Dev",
+    "buyer_title": "Executive / VP",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Custom Dev",
+    "buyer_title": "IT/Tech / IC",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": [
+      "custom apps",
+      "portals",
+      "mobile",
+      "backlog reduction"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "BPO",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Marketing Services",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "inbound_snippets": [
+      "I\u2019D Like To Schedule A Demo To Explore How Your Team Can Support A One-Time Power Bi Integration Wit",
+      "Good Morning, Looking For A Consultant And Team To Guide Us On Deploying Power Bi For Our Organizati",
+      "We Are Currently Looking For Someone To Do A Complete Build Of Our Workflow(S) And Processes Within "
+    ],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "Data & Analytics",
+    "buyer_title": "IT/Tech / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "inbound_snippets": [
+      "I\u2019D Like To Schedule A Demo To Explore How Your Team Can Support A One-Time Power Bi Integration Wit",
+      "Good Morning, Looking For A Consultant And Team To Guide Us On Deploying Power Bi For Our Organizati",
+      "We Are Currently Looking For Someone To Do A Complete Build Of Our Workflow(S) And Processes Within "
+    ],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Commercial",
+    "service": "CRM",
+    "buyer_title": "Marketing / VP",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "Dynamics/CRM"
+    ],
+    "inbound_snippets": [
+      "I Would Like To Speak To Someone Who Can Help Me Understand If Affirma Offers Dynamics Crm Support:U",
+      "Hello, I Am Reaching Out Because I'D Like To See If You Have Experience With Marketo As Well As Dyna",
+      "Several Businesses Within My Portfolio Use Microsoft Dynamics Crm But Are Not Using It Well And Need"
+    ],
+    "case_study_topics": [
+      "migration",
+      "implementation",
+      "managed service",
+      "redesign/upgrade"
+    ],
+    "service_notes": [
+      "Salesforce",
+      "Dynamics",
+      "pipeline",
+      "sales enablement"
+    ]
+  },
+  {
+    "company_type": "Education",
+    "service": "Infrastructure",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Financial Services",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [
+      "Power BI"
+    ],
+    "inbound_snippets": [
+      "We Are Currently Using Power Bi For Our Reporting Needs, And We Are Fully Satisfied With It. Our Cha",
+      "We Are Looking To Migrate Our Financial Reports Into Powerbi As Well As Create Dashboards For The Ex",
+      "Hello,\n Would Like To Discuss Options For Replacing Our Internal Power Bi Developer. He Is Leaving S"
+    ],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Manufacturing",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / Manager",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Data & Analytics",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [
+      "implementation"
+    ],
+    "service_notes": [
+      "Power BI",
+      "dashboards",
+      "decision latency",
+      "reporting"
+    ]
+  },
+  {
+    "company_type": "Technology",
+    "service": "Creative",
+    "buyer_title": "Other / Director",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  },
+  {
+    "company_type": "Technology",
+    "service": "Infrastructure",
+    "buyer_title": "Other / IC",
+    "n": 2,
+    "won": 0,
+    "win_rate": 0.0,
+    "inbound_asks": [],
+    "inbound_snippets": [],
+    "case_study_topics": [],
+    "service_notes": []
+  }
+]

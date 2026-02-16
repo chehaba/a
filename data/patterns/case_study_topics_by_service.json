@@ -1,0 +1,580 @@
+{
+  "Modern Workplace": [
+    {
+      "file": "Seattle Art Museum - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "REDW - HubSpot and Shopify Integration - 2024.pptx",
+      "topic_hints": [
+        "integration"
+      ]
+    },
+    {
+      "file": "Microsoft M365 Portfolio.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Little Giant Ladder \u2013 HubSpot Assessment - 2022.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Nexus - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft Customer Service - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "EFF - Data Migration & SharePoint Implementation.pptx",
+      "topic_hints": [
+        "migration",
+        "implementation"
+      ]
+    },
+    {
+      "file": "Snap On - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Talking Rain_Teams Implementation_.pptx",
+      "topic_hints": [
+        "implementation"
+      ]
+    },
+    {
+      "file": "Ferguson SharePoint Migration.pptx",
+      "topic_hints": [
+        "migration"
+      ]
+    },
+    {
+      "file": "HighRes Biosolutions - Pardot to HubSpot Migration - Approved.pptx",
+      "topic_hints": [
+        "migration"
+      ]
+    },
+    {
+      "file": "Colorado Mountain College SharePoint Migration.pptx",
+      "topic_hints": [
+        "migration"
+      ]
+    },
+    {
+      "file": "Peoples Bank Teams Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft Virtual Academy - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "REI Teams - Anonymized.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "AFEX - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "QTC- SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft Snack Box - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "MG2 Architecture - SharePoint.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Roku M365 Migration.pptx",
+      "topic_hints": [
+        "migration"
+      ]
+    }
+  ],
+  "Custom Dev": [
+    {
+      "file": "HighRes BioSolutions \u2013 Event Support Case Study - 2021 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Thales Academy - Custom Dev.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Aligned - Social Media Case Study - 2020 - Approved for proposals only.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft WPC 2012 - Portal.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "AWP - Custom Dev.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Crimson Care Registry - Custom Dev.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Advantage Waypoint - Client Portal.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Advantage Way Point - Mobile Application .pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Appen Marketo Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Alorica - Power Apps.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighRes BioSolutions \u2013 Boosted Post Case Study- 2024 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "CaptiveAire - Field Service Mobile Application.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighRes BioSolutions \u2013 SEO_AI Overview - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Flok - Mobile Application.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Idaho State Insurance Fund - Customer Portal.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "USPSA Mobile App.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Meta - Market Insights for Roadmapping.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "NakedDev - PPC Audit-Management Case Study - 2020 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "MacDonald Miller - ZenDesk Case Study - 09-2020 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HYDAC- Custom Dev.pptx",
+      "topic_hints": []
+    }
+  ],
+  "Infrastructure": [
+    {
+      "file": "MSA MDM.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Milgard Intune MDM.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Hermanson MDM and SCCM.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Lake Chelan Hospital - Infrastructure.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Enterprise Social Media - Infrastructure.pptx",
+      "topic_hints": []
+    }
+  ],
+  "Other": [
+    {
+      "file": "Lion Brothers.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "BI - Data Warehouse Implementation.pptx",
+      "topic_hints": [
+        "implementation"
+      ]
+    },
+    {
+      "file": "Sable.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Logo Examples.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Modern Hydrogen.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Meta DEC - Standards Hub.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Port of Tacoma Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "PodHandler.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Ramsey County.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Peoples Bank.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighResBio_Boston On-Site Recording_Case Study [1pg].pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "MSFT_Lenovo Customer Story.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft - BI.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Resco Products.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Pokemon.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Mission Support Alliance Exchange.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Hawaii Bank - Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Flipbook - Graphic Design.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Vehicle Tracking System - Web Service.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Mary's Place Case Study.pptx",
+      "topic_hints": []
+    }
+  ],
+  "CRM": [
+    {
+      "file": "ChemPoint \u2013 CRM Redesign & Sales Management Analytics.pptx",
+      "topic_hints": [
+        "redesign/upgrade"
+      ]
+    },
+    {
+      "file": "Chevron Credit Union \u2013 Salesforce Managed Service.pptx",
+      "topic_hints": [
+        "managed service"
+      ]
+    },
+    {
+      "file": "VXI \u2013 Salesforce CPQ.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Orenco Dynamics.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "CRM  Analytics.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "REI Salesforce.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "WA State Parks \u2013 Dynamics 365 Implementation.pptx",
+      "topic_hints": [
+        "implementation"
+      ]
+    },
+    {
+      "file": "Microsoft Dynamics - Website.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "AWP - CRM.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Indian Head Gaming Casino \u2013 Dynamics GP Migration.pptx",
+      "topic_hints": [
+        "migration"
+      ]
+    },
+    {
+      "file": "City of Seattle \u2013 Dynamics 365.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Astound Commerce - Salesforce.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "REI \u2013 Salesforce Development.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Sykes Salesforce.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "ACBB \u2013 Salesforce Managed Service.pptx",
+      "topic_hints": [
+        "managed service"
+      ]
+    },
+    {
+      "file": "Microsoft \u2013 XBOX Customer Support Dynamics 365.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft - Dynamics 365 MPF & Pitch Deck.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Whitney \u2013 Business Central Implementation And Integration with Microsoft Dynamics CRM.pptx",
+      "topic_hints": [
+        "implementation",
+        "integration"
+      ]
+    },
+    {
+      "file": "CRM Overview.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Rare Studios - Insider CRM Program.pptx",
+      "topic_hints": []
+    }
+  ],
+  "AI / Automation": [
+    {
+      "file": "CoPilot Case Studies.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft AI Platform - JFK Files AI Search.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Micro K12 - Sales AI Agent.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft & NVIDIA - Agentic AI Demo.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Pitchbook Data - AI Governance.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft AI Services \u2013 Chat Bot Development.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "NBC Universal - AI Video Indexer.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Saint Lukes - Medical Scribing AI Agent.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft - Pharmaceutical AI Agent Proof of Concept.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "MARA - AI Assistant Running App.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft Bing - Calendar AI Agent.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft - Partner Support AI Agent .pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "IRZ - AI - WIP.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Microsoft AI Platform - Healthcare Machine Learning Demo.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Pitchbook Data - AI Agent.pptx",
+      "topic_hints": []
+    }
+  ],
+  "Marketing": [
+    {
+      "file": "BeamReaders - Marketing Support Case Study - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Chopra - Marketing Cloud.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Allied Air - Marketing Support.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "DiversyFund - Marketing.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighRes BioSolutions \u2013 Full Service Marketing Support Case Study- 2021 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "INAP - Marketing Managed Service Case Study - Approved prospects only - 2018.pptx",
+      "topic_hints": [
+        "managed service"
+      ]
+    },
+    {
+      "file": "Pallet - Marketing Automation Evaluation Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "INAP - Marketing Automation.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Infovista - Marketing Automation Marketo - Case Study - 11-2019 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighRes BioSolutions \u2013 Lifecycle Marketing - 03-2023.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "INAP - Company Rebrand and Marketing Fundamentals.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Pineapple Hospitality\u00a0\u2013 Marketing Planning_Social Audit - 2021 3 - Copy.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Fulcrum - Marketing and Trade Show Support Case Study - 2019 - Approved.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "NW Farm Credit - Marketing Services.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "eCommerce - Marketing.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Seattle Pacific Univ - Marketing.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "INAP - Marketing Managed Service.pptx",
+      "topic_hints": [
+        "managed service"
+      ]
+    },
+    {
+      "file": "DOXA Marketing.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "CPE Store - Marketing.pptx",
+      "topic_hints": []
+    }
+  ],
+  "Creative": [
+    {
+      "file": "HighResBio_Social Videos_Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Seattle Art Museum - Creative.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Viva Snackable Videos - Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "AcumatiCares Website Videos_Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Affirma-Webinar Case Studies .pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Meta_In Real Life Video Series - Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighResBio_FlexPod Video Series_Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "HighResBio_Webinar Repurposing_Case Study.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Meta - Creative Sound Design Resource Management.pptx",
+      "topic_hints": []
+    }
+  ],
+  "Data & Analytics": [
+    {
+      "file": "Atrium Staffing_Snowflake Implementation_D&A.pptx",
+      "topic_hints": [
+        "implementation"
+      ]
+    },
+    {
+      "file": "MacDonald Miller - Power BI.pptx",
+      "topic_hints": []
+    },
+    {
+      "file": "Xbox Ambassadors - Power BI.pptx",
+      "topic_hints": []
+    }
+  ]
+}
